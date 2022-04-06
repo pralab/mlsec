@@ -36,14 +36,14 @@ We are the organizers of the ML Security Seminar Series on YouTube.
    <div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
    <div class="github-profile-badge custom-background" data-user="zangobot" ></div>
    <div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
-   <div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
    <div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
+   <div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
    <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 </div>
 
 #### :pushpin: Subscribe to receive updates on the future events!
 
-Here you can find information about the events we organize: https://mlsec.eventbrite.com/
+Here you can find information about the events we organize: [https://mlsec.eventbrite.com/](https://mlsec.eventbrite.com/)
 
 Follow for receiving updates!
 
