@@ -25,6 +25,10 @@ We are the organizers of the ML Security Seminar Series on YouTube.
     font-weight: bold;}
 </style>
 <div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
+<div class="github-profile-badge custom-background" data-user="zangobot" ></div>
+<div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
+<div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
+<div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
 <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 
 #### :pushpin: Subscribe to receive updates on the future events!
