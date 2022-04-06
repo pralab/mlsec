@@ -20,19 +20,25 @@ We are the organizers of the ML Security Seminar Series on YouTube.
 
 <style>
    .custom-background .github-profile-badge-name-wrapper {
-    background: gray;}
+   background: gray;}
    .custom-background .github-profile-badge-name {
-    color: black;
-    font-weight: bold;}
+   color: black;
+   font-weight: bold;}
+   .row-badge {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 10px;
+   border: 1px white solid;
+   width: 100%;
+   }
 </style>
-
-<div>
-<div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
-<div class="github-profile-badge custom-background" data-user="zangobot" ></div>
-<div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
-<div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
-<div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
-<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+<div class="row-badge">
+   <div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
+   <div class="github-profile-badge custom-background" data-user="zangobot" ></div>
+   <div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
+   <div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
+   <div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
+   <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 </div>
 
 #### :pushpin: Subscribe to receive updates on the future events!
