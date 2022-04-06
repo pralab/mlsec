@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 plugins:
   - jemoji
+github:
+  is_project_page: false
