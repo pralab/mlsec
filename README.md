@@ -4,6 +4,7 @@
  [![YT subscribers](https://img.shields.io/youtube/channel/subscribers/UCfLweXOMiUVt0VUfBax1cRw?style=for-the-badge)](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw?sub_confirmation=1)
  [![Follow us on Twitter](https://img.shields.io/twitter/follow/mlsec_lab?color=blue&style=for-the-badge)](https://twitter.com/mlsec_lab)
 
+ 
 The MLSec Laboratory is a research branch of the Pattern Recognition and Application Laboratory (PRALab) at the University of Cagliari (Italy). 
 The topics investigated in our research are at the intersection of machine learning and computer security.
 
@@ -24,12 +25,15 @@ We are the organizers of the ML Security Seminar Series on YouTube.
     color: black;
     font-weight: bold;}
 </style>
+
+<div>
 <div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
 <div class="github-profile-badge custom-background" data-user="zangobot" ></div>
 <div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
 <div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
 <div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
 <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+</div>
 
 #### :pushpin: Subscribe to receive updates on the future events!
 
