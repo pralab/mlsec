@@ -17,7 +17,14 @@ If you want to improve your background on the topic, we also have a [free short 
 
 We are the organizers of the ML Security Seminar Series on YouTube. 
 
-<div class="github-profile-badge" data-user="maurapintor"></div>
+<style>
+   .custom-background .github-profile-badge-name-wrapper {
+    background: gray;}
+   .custom-background .github-profile-badge-name {
+    color: black;
+    font-weight: bold;}
+</style>
+<div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
 <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 
 #### :pushpin: Subscribe to receive updates on the future events!
