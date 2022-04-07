@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme:: jekyll-theme-cayman
 plugins:
   - jemoji
 github:
