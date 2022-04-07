@@ -51,7 +51,8 @@
         .scholar-profile-badge-name {
             font-size: 15px;
             font-family: monospace;
-            color: white;
+            color: black;
+            font-weight: bold;
             margin: 0;
             padding: 0;
             margin-left: 5px;

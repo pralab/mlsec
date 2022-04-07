@@ -18,20 +18,6 @@ If you want to improve your background on the topic, we also have a [free short 
 
 We are the organizers of the ML Security Seminar Series on YouTube. 
 
-<style>
-   .custom-background .github-profile-badge-name-wrapper {
-   background: gray;}
-   .custom-background .github-profile-badge-name {
-   color: black;
-   font-weight: bold;}
-   .row-badge {
-   display: flex;
-   flex-wrap: wrap;
-   padding: 10px;
-   border: 1px white solid;
-   width: 100%;
-   }
-</style>
 <div class="row-badge">
    <div class="scholar-profile-badge custom-background" user-name="Maura Pintor" user-id="Tu45bY4AAAAJ"></div>
    <div class="scholar-profile-badge custom-background" user-name="Luca Demetrio" user-id="1VFfrQEAAAAJ"></div>
