@@ -19,13 +19,13 @@ If you want to improve your background on the topic, we also have a [free short 
 We are the organizers of the ML Security Seminar Series on YouTube. 
 
 <div class="row-badge">
-   <div class="scholar-profile-badge custom-background" user-name="Maura Pintor" user-id="Tu45bY4AAAAJ"></div>
-   <div class="scholar-profile-badge custom-background" user-name="Luca Demetrio" user-id="1VFfrQEAAAAJ"></div>
-   <div class="scholar-profile-badge custom-background" user-name="Kathrin Grosse" user-id="LrYcIxYAAAAJ"></div>
-   <div class="scholar-profile-badge custom-background" user-name="Angelo Sotgiu" user-id="7nNieGwAAAAJ"></div>
-   <div class="scholar-profile-badge custom-background" user-name="Battista Biggio" user-id="OoUIOYwAAAAJ"></div>
-   <div class="scholar-profile-badge custom-background" user-name="Ambra Demontis" user-id="n_GuF3EAAAAJ"></div>
-   <div class="scholar-profile-badge custom-background" user-name="Fabio Roli" user-id="sCypmFAAAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Maura Pintor" user-id="Tu45bY4AAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Luca Demetrio" user-id="1VFfrQEAAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Kathrin Grosse" user-id="LrYcIxYAAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Angelo Sotgiu" user-id="7nNieGwAAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Battista Biggio" user-id="OoUIOYwAAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Ambra Demontis" user-id="n_GuF3EAAAAJ"></div>
+   <div class="scholar-profile-badge" user-name="Fabio Roli" user-id="sCypmFAAAAAJ"></div>
    <script src="js/widget.js"></script>
 </div>
 
