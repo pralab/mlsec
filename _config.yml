@@ -4,3 +4,5 @@ plugins:
 github:
   is_project_page: false
 google_analytics: G-XY0GH0YVRF
+plugins:
+  - jekyll-remote-theme
