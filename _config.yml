@@ -1,8 +1,7 @@
-remote_theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 plugins:
   - jemoji
 github:
   is_project_page: false
 google_analytics: G-XY0GH0YVRF
-plugins:
-  - jekyll-remote-theme
+
