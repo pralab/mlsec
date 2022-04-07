@@ -59,3 +59,12 @@ Follow for receiving updates!
 <!-- BLOG-POST-LIST:END -->
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-XXXXXXXXX-X');
+</script>
