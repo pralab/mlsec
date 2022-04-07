@@ -46,6 +46,10 @@
             width: 0;
             max-width: 0;
             transition: all 0.3s ease;
+        }
+        
+        .row-badge {
+            display: flex;
             flex-wrap: wrap;
             padding: 10px;
             border: 1px white solid;
