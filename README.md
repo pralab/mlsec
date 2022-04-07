@@ -37,6 +37,7 @@ We are the organizers of the ML Security Seminar Series on YouTube.
    <div class="github-profile-badge custom-background" data-user="zangobot" ></div>
    <div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
    <div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
+    <div class="github-profile-badge custom-background" data-user="a-demontis" ></div>
    <div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
    <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
 </div>
