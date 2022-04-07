@@ -33,13 +33,14 @@ We are the organizers of the ML Security Seminar Series on YouTube.
    }
 </style>
 <div class="row-badge">
-   <div class="github-profile-badge custom-background" data-user="maurapintor" ></div>
-   <div class="github-profile-badge custom-background" data-user="zangobot" ></div>
-   <div class="github-profile-badge custom-background" data-user="KaGrosse" ></div>
-   <div class="github-profile-badge custom-background" data-user="asotgiu" ></div>
-    <div class="github-profile-badge custom-background" data-user="a-demontis" ></div>
-   <div class="github-profile-badge custom-background" data-user="bbiggio" ></div>
-   <script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+   <div class="scholar-profile-badge custom-background" user-name="Maura Pintor" user-id="Tu45bY4AAAAJ"></div>
+   <div class="scholar-profile-badge custom-background" user-name="Luca Demetrio" user-id="1VFfrQEAAAAJ"></div>
+   <div class="scholar-profile-badge custom-background" user-name="Kathrin Grosse" user-id="LrYcIxYAAAAJ"></div>
+   <div class="scholar-profile-badge custom-background" user-name="Angelo Sotgiu" user-id="7nNieGwAAAAJ"></div>
+   <div class="scholar-profile-badge custom-background" user-name="Battista Biggio" user-id="OoUIOYwAAAAJ"></div>
+   <div class="scholar-profile-badge custom-background" user-name="Ambra Demontis" user-id="n_GuF3EAAAAJ"></div>
+   <div class="scholar-profile-badge custom-background" user-name="Fabio Roli" user-id="sCypmFAAAAAJ"></div>
+   <script src="js/widget.js"></script>
 </div>
 
 #### :pushpin: Subscribe to receive updates on the future events!
