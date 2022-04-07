@@ -45,7 +45,11 @@
             border-bottom-right-radius: ${BASE_SIZE / 2}px;
             width: 0;
             max-width: 0;
-            transition: all 0.5s ease;
+            transition: all 0.3s ease;
+            flex-wrap: wrap;
+            padding: 10px;
+            border: 1px white solid;
+            width: 100%;
         }
 
         .scholar-profile-badge-name {
@@ -84,7 +88,6 @@
     }
 
 
-
     function getScholarLogo() {
         const logoImg = d.createElement('img');
         logoImg.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png';
@@ -110,7 +113,7 @@
     function getNameText(username) {
         const nameText = d.createElement('p');
         nameText.className = 'scholar-profile-badge-name';
-        nameText.innerText =  username;
+        nameText.innerText = username;
         return nameText;
     }
 
