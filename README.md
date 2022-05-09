@@ -39,11 +39,11 @@ Follow for receiving updates!
 #### :tv: Latest Seminar Events
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Security Seminar Series - Konrad Rieck](https://www.youtube.com/watch?v=26u72J4krDM)
 - [Machine Learning Security Seminar Series - Fabio Pierazzi](https://www.youtube.com/watch?v=Aa2gaL--bFw)
 - [Machine Learning Security Seminar Series - Francesco Croce](https://www.youtube.com/watch?v=MrRPTB0ZmJw)
 - [Machine Learning Security Seminar Series - Luca Oneto](https://www.youtube.com/watch?v=jbOCw-u8D_E)
 - [Machine Learning Security Seminar Series - Jérôme Rony](https://www.youtube.com/watch?v=ItnSgpgmXMI)
-- [Machine Learning Security Seminar Series - Eugene Bagdasaryan](https://www.youtube.com/watch?v=bfQ0V8Nif1Y)
 <!-- BLOG-POST-LIST:END -->
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
