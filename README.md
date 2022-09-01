@@ -39,11 +39,11 @@ Follow for receiving updates!
 #### :tv: Latest Seminar Events
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Security Seminar Series - Maksym Andriushchenko](https://www.youtube.com/watch?v=JgWrDeUOUtk)
 - [Machine Learning Security Seminar Series - Florian Tramèr](https://www.youtube.com/watch?v=knRK-P5eABY)
 - [Machine Learning Security Seminar Series - Yizheng Chen](https://www.youtube.com/watch?v=STQwFwN5Ln8)
 - [Machine Learning Security Seminar Series - Konrad Rieck](https://www.youtube.com/watch?v=26u72J4krDM)
 - [Machine Learning Security Seminar Series - Fabio Pierazzi](https://www.youtube.com/watch?v=Aa2gaL--bFw)
-- [Machine Learning Security Seminar Series - Francesco Croce](https://www.youtube.com/watch?v=MrRPTB0ZmJw)
 <!-- BLOG-POST-LIST:END -->
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
