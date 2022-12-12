@@ -39,11 +39,11 @@ Follow for receiving updates!
 #### :tv: Latest Seminar Events
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Security Seminar Series - Giulio Rossolini](https://www.youtube.com/watch?v=oxPmRTfDUGk)
 - [Machine Learning Security Seminar Series - Andrei Lapanik](https://www.youtube.com/watch?v=PFWFJFXXb1Y)
 - [Machine Learning Security Seminar Series - Sven Gowal](https://www.youtube.com/watch?v=lSjjamzOO8o)
 - [Machine Learning Security Seminar Series - Maksym Andriushchenko](https://www.youtube.com/watch?v=JgWrDeUOUtk)
 - [Machine Learning Security Seminar Series - Florian Tramèr](https://www.youtube.com/watch?v=knRK-P5eABY)
-- [Machine Learning Security Seminar Series - Yizheng Chen](https://www.youtube.com/watch?v=STQwFwN5Ln8)
 <!-- BLOG-POST-LIST:END -->
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
