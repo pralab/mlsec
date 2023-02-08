@@ -21,7 +21,6 @@ We are the organizers of the ML Security Seminar Series on YouTube.
 <div class="row-badge">
    <div class="scholar-profile-badge" user-name="Maura Pintor" user-id="Tu45bY4AAAAJ"></div>
    <div class="scholar-profile-badge" user-name="Luca Demetrio" user-id="1VFfrQEAAAAJ"></div>
-   <div class="scholar-profile-badge" user-name="Kathrin Grosse" user-id="LrYcIxYAAAAJ"></div>
    <div class="scholar-profile-badge" user-name="Angelo Sotgiu" user-id="7nNieGwAAAAJ"></div>
    <div class="scholar-profile-badge" user-name="Battista Biggio" user-id="OoUIOYwAAAAJ"></div>
    <div class="scholar-profile-badge" user-name="Ambra Demontis" user-id="n_GuF3EAAAAJ"></div>
@@ -56,3 +55,6 @@ Follow for receiving updates!
 
   gtag('config', 'UA-XXXXXXXXX-X');
 </script>
+
+
+![elsalogo](https://www.elsa-ai.eu/images/logo/elsa_logo_RGB_twocolor.jpg)https://www.elsa-ai.eu
