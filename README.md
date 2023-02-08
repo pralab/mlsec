@@ -57,4 +57,4 @@ Follow for receiving updates!
 </script>
 
 
-<img src="https://www.elsa-ai.eu/images/logo/elsa_logo_RGB_twocolor.jpg" width="200" height="200"> https://www.elsa-ai.eu
+<img src="https://www.elsa-ai.eu/images/logo/elsa_logo_RGB_twocolor.jpg" width="100" height="100"> https://www.elsa-ai.eu
