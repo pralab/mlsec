@@ -34,7 +34,9 @@ Here you can find information about the events we organize: [https://mlsec.event
 
 Follow for receiving updates!
 
-#### :date: Next event
+#### :date: Grab your seat for the next event
+
+<br>
 
 <div id="eventbrite-widget-container-529508222347"></div>
 
