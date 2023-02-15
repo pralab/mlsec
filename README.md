@@ -38,11 +38,11 @@ Follow for receiving updates!
 #### :tv: Latest Seminar Events
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Security Seminar Series - Edward Raff](https://www.youtube.com/watch?v=qjXp5tGwQ2w)
 - [Machine Learning Security Seminar Series - Fabio Brau](https://www.youtube.com/watch?v=5B-P1TWvBGI)
 - [Machine Learning Security Seminar Series - Giulio Rossolini](https://www.youtube.com/watch?v=oxPmRTfDUGk)
 - [Machine Learning Security Seminar Series - Andrei Lapanik](https://www.youtube.com/watch?v=PFWFJFXXb1Y)
 - [Machine Learning Security Seminar Series - Sven Gowal](https://www.youtube.com/watch?v=lSjjamzOO8o)
-- [Machine Learning Security Seminar Series - Maksym Andriushchenko](https://www.youtube.com/watch?v=JgWrDeUOUtk)
 <!-- BLOG-POST-LIST:END -->
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
