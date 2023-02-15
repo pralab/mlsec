@@ -34,6 +34,29 @@ Here you can find information about the events we organize: [https://mlsec.event
 
 Follow for receiving updates!
 
+#### :date: Next event
+
+<div id="eventbrite-widget-container-529508222347"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '529508222347',
+        iframeContainerId: 'eventbrite-widget-container-529508222347',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
 
 #### :tv: Latest Seminar Events
 
