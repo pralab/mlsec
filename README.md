@@ -12,8 +12,6 @@ More info on Adversarial Machine Learning [here](http://pralab.diee.unica.it/en/
 
 If you want to improve your background on the topic, we also have a [free short course on YouTube](https://www.youtube.com/playlist?list=PLyaM1v1V1Ed_zDss3_kXlHEULSNmS0_Uz).
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mlsec_lab&layout=wide)](https://twitter.com/mlsec_lab)
-
 ### ML Security Seminar Series
 
 We are the organizers of the ML Security Seminar Series on YouTube. 
