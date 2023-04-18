@@ -42,6 +42,8 @@ Follow for receiving updates!
 
 <div id="eventbrite-widget-container-598378394887"></div>
 
+<div id="eventbrite-widget-container-618896956457"></div>
+
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
@@ -52,8 +54,8 @@ Follow for receiving updates!
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '598378394887',
-        iframeContainerId: 'eventbrite-widget-container-598378394887',
+        eventId: '618896956457',
+        iframeContainerId: 'eventbrite-widget-container-618896956457',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
