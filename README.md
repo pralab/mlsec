@@ -76,13 +76,14 @@ Follow for receiving updates!
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L5QX3J17FC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-XXXXXXXXX-X');
+  gtag('config', 'G-L5QX3J17FC');
 </script>
 
 
