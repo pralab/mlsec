@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLyaM1v1V1Ed_APkoXeGX8ca5Dwnnh3_De"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLweXOMiUVt0VUfBax1cRw"
