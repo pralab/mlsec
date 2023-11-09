@@ -8,8 +8,6 @@
 The MLSec Laboratory is a research branch of the Pattern Recognition and Application Laboratory (PRALab) at the University of Cagliari (Italy). 
 The topics investigated in our research are at the intersection of machine learning and computer security.
 
-More info on Adversarial Machine Learning [here](http://pralab.diee.unica.it/en/WhatIsAdversarialLearning).
-
 If you want to improve your background on the topic, we also have a [free short course on YouTube](https://www.youtube.com/playlist?list=PLyaM1v1V1Ed_zDss3_kXlHEULSNmS0_Uz).
 
 ### ML Security Seminar Series
@@ -28,7 +26,10 @@ We are the organizers of the ML Security Seminar Series on YouTube.
 
 #### :pushpin: Subscribe to receive updates on the future events!
 
-Here you can find information about the events we organize: [https://mlsec.eventbrite.com/](https://mlsec.eventbrite.com/)
+ [![YT subscribers](https://img.shields.io/youtube/channel/subscribers/UCfLweXOMiUVt0VUfBax1cRw)](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw?sub_confirmation=1)
+ [![Follow us on Twitter](https://img.shields.io/twitter/follow/mlsec_lab)](https://twitter.com/mlsec_lab)
+ 
+
 
 Follow us for receiving updates!
 
