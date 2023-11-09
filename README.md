@@ -1,8 +1,8 @@
 # MLSec Laboratory - PRALab University of Cagliari
 
- [![YT views](https://img.shields.io/youtube/channel/views/UCfLweXOMiUVt0VUfBax1cRw?style=for-the-badge)](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw?sub_confirmation=1)
- [![YT subscribers](https://img.shields.io/youtube/channel/subscribers/UCfLweXOMiUVt0VUfBax1cRw?style=for-the-badge)](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw?sub_confirmation=1)
- [![Follow us on Twitter](https://img.shields.io/twitter/follow/mlsec_lab?color=blue&style=for-the-badge)](https://twitter.com/mlsec_lab)
+ [![YT views](https://img.shields.io/youtube/channel/views/UCfLweXOMiUVt0VUfBax1cRw)](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw?sub_confirmation=1)
+ [![YT subscribers](https://img.shields.io/youtube/channel/subscribers/UCfLweXOMiUVt0VUfBax1cRw)](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw?sub_confirmation=1)
+ [![Follow us on Twitter](https://img.shields.io/twitter/follow/mlsec_lab)](https://twitter.com/mlsec_lab)
 
  
 The MLSec Laboratory is a research branch of the Pattern Recognition and Application Laboratory (PRALab) at the University of Cagliari (Italy). 
