@@ -6,7 +6,7 @@ baseurl: "/mlsec" # the subpath of your site, e.g. /blog/
 url: "https://pralab.github.io/mlsec" # the base hostname & protocol for your site
 
 schoolname: "University of Cagliari"
-schoolurl: "www.unica.it"
+schoolurl: 
 twitter_username: mlsec_lab
 youtube_username: MLSec
 youtube_url: https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw
@@ -14,7 +14,8 @@ linkedin_username: MLSec
 linkedin_id: 77059723
 
 address: |
-    University of Cagliari & University of Genoa
+    University of Cagliari 
+    University of Genoa
 
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
