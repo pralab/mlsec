@@ -8,13 +8,15 @@
 
          <p class="text">
 {{ site.address | newline_to_br  }}
+
 {% if site.schoolurl %}
   <a href="{{site.schoolurl}}">
     <i class="fas fa-globe" style="color:gray"></i> {{site.schoolurl}}
-  </a>
-
+  </a><br>
 {% endif %}
-      </div>
+<small>Thanks to: <a href="https://www.elsa-ai.eu" target="_blank">Elsa Project</a></small>
+
+</div>
 
       <div class="footer-col  footer-col-2">
         <p>Follow us!</p>

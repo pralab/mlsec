@@ -16,7 +16,7 @@
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
         {% if n.type %}
-            New event! {{ n.description }} is coming to our seminar on {{ n.date | date_to_string: "ordinal", "US"  }}!
+            New event! {{ n.speaker }} is coming to our seminar on {{ n.date | date_to_string: "ordinal", "US"  }}!
         {% else %}
         {{ n.content }}
         {% endif %}
