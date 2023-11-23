@@ -37,11 +37,11 @@ Follow us for receiving updates!
 #### :tv: Latest Seminar Events
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Security Seminar Series - Franziska Boenisch &lpar;CISPA&rpar;](https://www.youtube.com/watch?v=L2ywRARuGTk)
 - [Machine Learning Security Seminar Series - Ilia Shumailov](https://www.youtube.com/watch?v=-kXyQXXREXI)
 - [Machine Learning Security Seminar Series - Mark Müller](https://www.youtube.com/watch?v=au2MyCpkGnI)
 - [Machine Learning Security Seminar Series - Scott Coull](https://www.youtube.com/watch?v=risVEJ1yWRg)
 - [Machine Learning Security Seminar Series - Teddy Furon](https://www.youtube.com/watch?v=JepUh7kPtT0)
-- [Machine Learning Security Seminar Series - Matthew Jagielski](https://www.youtube.com/watch?v=w83umqumcoc)
 <!-- BLOG-POST-LIST:END -->
 
  ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
