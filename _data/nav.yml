@@ -1,0 +1,12 @@
+items:
+- url: /
+  name: Home
+  icon_class: fa fa-home fa-lg
+
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
+
+- url: /past/
+  name: Past Events
+  icon_class: fas fa-book-reader

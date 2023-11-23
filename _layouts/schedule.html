@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<header class="post-header">
+    <h1 class="post-title">Next events</h1>
+</header>
+
+{{ content }}
+
+<div class="home" style="font-size: 0.8em;">
+    {% if site.events.size != 0 %}
+
+    <ul class="responsive-table" style="margin-left: 0;">
+        <li class="table-header">
+            <div class="col col-1">Event</div>
+            <div class="col col-1-2">Date</div>
+            <div class="col col-2">Description</div>
+            <div class="col col-4">Link</div>
+        </li>
+        
+        {% for event in site.events %}
+        <li class="table-row table-row-{{ event.type}}">
+            {% include schedule_row_{{ event.type }}.html event=event %}
+        </li>
+        {% endfor %}
+
+
+    </ul>
+    {% else %}
+
+    <h3>Stay tuned for future events!</h3>
+
+    {% endif %}
+
+</div>

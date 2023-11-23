@@ -1,7 +1,49 @@
-theme: jekyll-theme-cayman
-plugins:
-  - jemoji
-github:
-  is_project_page: false
-google_analytics: G-XY0GH0YVRF
+# Site settings
+course_name: MLSec - Machine Learning Security Seminars
+course_description: "The MLSec Laboratory is a research branch of the Pattern Recognition and Application Laboratory (PRALab) at the University of Cagliari (Italy). The topics investigated in our research are at the intersection of machine learning and computer security."
 
+baseurl: "/mlsec/" # the subpath of your site, e.g. /blog/
+url: "https://pralab.github.io/mlsec/" # the base hostname & protocol for your site
+
+schoolname: "University of Cagliari"
+schoolurl: "www.unica.it"
+twitter_username: mlsec_lab
+youtube_username: MLSec
+youtube_url: https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw
+linkedin_username: MLSec
+linkedin_id: 77059723
+
+address: |
+    University of Cagliari
+    Cagliari (Italy)
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    past:
+        output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

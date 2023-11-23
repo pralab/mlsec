@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+
+    {% include announcements.html %}
+    <br />
+
+    <h2>MLSec Laboratory @ PRALab</h2>
+    <p>{{ site.course_description }}</p>
+    
+    {{ content }}
+
+    
+</div>

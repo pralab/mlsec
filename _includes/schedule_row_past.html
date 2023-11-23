@@ -1,0 +1,11 @@
+<div class="col col-1" data-label="Past Event">Past Event</div>
+<div class="col col-1-2" data-label="Date">
+    {{ include.event.date | date: site.dateformat }}
+    <br class="date-spliter"/>{{ include.event.date | date: "%A" }}
+</div>
+<div class="col col-2" data-label="Description">
+    {{ include.event.title }}
+    <div class="schedule-lecture-links">
+    {% include event_links.html event=include.event %}
+    </div>
+</div>
