@@ -2,7 +2,7 @@
 course_name: MLSec - Machine Learning Security Seminars
 course_description: "The MLSec Laboratory is a research branch of the Pattern Recognition and Application Laboratory (PRALab) at the University of Cagliari (Italy). The topics investigated in our research are at the intersection of machine learning and computer security."
 
-baseurl: "/mlsec/" # the subpath of your site, e.g. /blog/
+baseurl: "/mlsec" # the subpath of your site, e.g. /blog/
 url: "https://pralab.github.io/mlsec" # the base hostname & protocol for your site
 
 schoolname: "University of Cagliari"
