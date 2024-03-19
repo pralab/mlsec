@@ -1,6 +1,6 @@
 ---
 type: event
-date: 2024-03-24T15:00:00+1:00
+date: 2024-03-26T15:00:00+1:00
 speaker: Giovanni Cherubin
 affiliation: Microsoft
 title: "A Deep Dive into the Privacy of Machine Learning"
