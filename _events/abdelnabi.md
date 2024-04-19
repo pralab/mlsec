@@ -1,6 +1,6 @@
 ---
 type: event
-date: 2024-05-02T16:00:00+1:00
+date: 2024-05-02T16:00:00+2:00
 speaker: Sahar Abdelnabi
 affiliation: Microsoft 
 title: "On New Security and Safety Challenges Posed by LLMs and How to Evaluate Them"
