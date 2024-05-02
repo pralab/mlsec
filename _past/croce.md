@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-03-08T15:00:00+1:00
 speaker: Francesco Croce
 affiliation: University of Tübingen
 title: "Towards standardized and accurate evaluation of the robustness of image classifiers against adversarial attacks"

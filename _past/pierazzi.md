@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-04-07T15:00:00+1:00
 speaker: Fabio Pierazzi
 affiliation: King's College London
 title: "Trends and Challenges in ML-based Malware Detection"

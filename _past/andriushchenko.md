@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-09-06T15:00:00+1:00
 speaker: Maksym Andriushchenko
 affiliation: EPFL
 title: "ARIA: Adversarially Robust Image Attribution for Content Provenance"

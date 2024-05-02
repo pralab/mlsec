@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2023-03-07T15:00:00+1:00
 speaker: Matthew Jagielski
 affiliation: Google Research
 title: "Evaluating Heuristic Defenses in Machine Learning Privacy"

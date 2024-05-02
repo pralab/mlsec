@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-10-13T15:00:00+1:00
 speaker: Sven Gowal
 affiliation: DeepMind
 title: "Specification-driven Machine Learning for Robustness"

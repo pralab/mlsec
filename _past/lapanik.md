@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-11-08T15:00:00+1:00
 speaker: Andrei Lapanik
 affiliation: Intuition Machines
 title: "Practical Adversarial ML "

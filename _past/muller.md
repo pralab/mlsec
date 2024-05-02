@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2023-06-06T15:00:00+1:00
 speaker: Mark Niklas Müller
 affiliation: ETH Zurich
 title: "Realistic Neural Networks with Guarantees"

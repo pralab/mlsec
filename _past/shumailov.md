@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2023-07-27T15:00:00+1:00
 speaker: Ilia Shumailov
 affiliation: University of Oxford
 title: "Trusted Computing Base of Machine Learning"

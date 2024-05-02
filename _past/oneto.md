@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-02-22T15:00:00+1:00
 speaker: Luca Oneto
 affiliation: University of Genoa
 title: "Learning From Data is about Handling Risk"

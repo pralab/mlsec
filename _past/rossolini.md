@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-12-13T15:00:00+1:00
 speaker: Giulio Rossolini
 affiliation: Scuola Superiore Sant'Anna of Pisa
 title: "On the Real-World Adversarial Robustness Against Physically-Realizable Attacks"

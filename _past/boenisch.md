@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2032-12-07T15:00:00+1:00
 speaker: Franziska Boenisch
 affiliation: CISPA
 title: "Can individuals trust privacy mechanisms for machine learning? A case study of federated learning"

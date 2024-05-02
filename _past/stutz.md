@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2021-12-07T15:00:00+1:00
 speaker: David Stutz
 affiliation: Max Planck Institute for Informatics
 title: "Relating Adversarially Robust Generalization to Flat Minima"

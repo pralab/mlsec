@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2023-01-12T15:00:00+1:00
 speaker: Fabio Brau
 affiliation: Scuola Superiore Sant'Anna Pisa
 title: "Online Certifiable Robustness for Adversarial Perturbation"

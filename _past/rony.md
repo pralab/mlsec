@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-02-10T15:00:00+1:00
 speaker: Jérôme Rony
 affiliation: ÉTS Montréal
 title: "Towards a general framework for white-box adversarial attacks"

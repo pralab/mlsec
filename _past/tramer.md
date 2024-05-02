@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-07-07T15:00:00+1:00
 speaker: Florian Tramer
 affiliation: Google, ETHZ
 title: "Increasing Confidence in Adversarial Examples Defenses"

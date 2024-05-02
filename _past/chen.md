@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-06-07T15:00:00+1:00
 speaker: Yizheng Chen
 affiliation: University of California, Berkeley
 title: "Learning Security Classifiers with Verified Global Robustness Properties"

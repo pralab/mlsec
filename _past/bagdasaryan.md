@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2022-01-11T15:00:00+1:00
 speaker: Eugene Bagdasaryan
 affiliation: Cornell Tech
 title: "Spinning Language Models for Propaganda-As-A-Service"

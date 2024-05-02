@@ -1,6 +1,6 @@
 ---
 type: past
-date: 2018-09-16T8:00:00+1:00
+date: 2023-04-04T15:00:00+1:00
 speaker: Teddy Furon
 affiliation: Inria centre at Rennes University
 title: "My personal tour of Machine Learning Security"
