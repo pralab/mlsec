@@ -3,41 +3,41 @@ layout: default
 ---
 
 {{ content }}
-
 <ul id="archive">
-{% for event in site.past %}
-<li class="archiveposturl" style="background: transparent">
-<div class="lecture-container">
-    <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('https://i3.ytimg.com/vi/{{event.youtube}}/maxresdefault.jpg');">
-        <a href="https://www.youtube.com/watch?v={{event.youtube}}" target="_blank">
-          <img src="https://i3.ytimg.com/vi/{{event.youtube}}/maxresdefault.jpg"/>
-        </a>
-      </div>
-    </div>
-
-    <div class="content">
-        <span style="font-weight: bold;">{{ event.title }}</span><br>
-
-        <details>
-          <summary>
-            <strong>Speaker:</strong> {{ event.speaker }} ({{event.affiliation}})
-          </summary>
-          <p>
-            {{event.bio}}
-          </p>
-      </details>
-        <br/>
-        <small>{{event.abstract}}</small>
-
-        {% if event.content != '' %}
-        <br/>
-        <div class="markdown-content" style="margin-top: 3px;">
-        {{ event.content }}
+    {% for event in site.past %}
+    <li class="archiveposturl" style="background: transparent">
+        <div class="lecture-container">
+            <div class="thumbnail">
+                <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('https://i3.ytimg.com/vi/{{event.youtube}}/maxresdefault.jpg');">
+                    <a href="https://www.youtube.com/watch?v={{event.youtube}}" target="_blank">
+                        <img src="https://i3.ytimg.com/vi/{{event.youtube}}/maxresdefault.jpg">
+                    </a>
+                </div>
+            </div>
+            <div class="content">
+                <span style="font-weight: bold;">{{ event.date | date_to_string: "ordinal", "US"   }}</span>
+                <br>
+                <span style="font-weight: bold;">{{ event.title }}</span>
+                <br>
+                <details>
+                    <summary>
+                        <strong>Speaker:</strong>
+                        {{ event.speaker }} ({{event.affiliation}})
+                    </summary>
+                    <p>
+                        {{event.bio}}
+                    </p>
+                </details>
+                <br>
+                <small>{{event.abstract}}</small>
+                {% if event.content != '' %}
+                <br>
+                <div class="markdown-content" style="margin-top: 3px;">
+                    {{ event.content }}
+                </div>
+                {% endif %}
+            </div>
         </div>
-        {% endif %}
-    </div>
-</div>
-</li>
-{% endfor %}
+    </li>
+    {% endfor %}
 </ul>

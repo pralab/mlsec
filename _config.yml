@@ -16,8 +16,9 @@ timezone: Europe/Brussels
 
 
 address: |
-    University of Cagliari 
-    University of Genoa
+    <a href="https://www.unica.it">University of Cagliari</a>
+    <a href="https://unige.it">University of Genoa</a>
+    <a href="https://www.elsa-ai.eu">Elsa Project</a>
 
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)

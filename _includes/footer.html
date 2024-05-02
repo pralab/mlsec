@@ -1,82 +1,78 @@
 <footer class="site-footer">
-
-  <div class="wrapper">
-
-<!--     <h2 class="footer-heading">{{ site.schoolname }}</h2> -->
-         <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-
-         <p class="text">
-{{ site.address | newline_to_br  }}
+    <div class="wrapper">
+        <!--     <h2 class="footer-heading">{{ site.schoolname }}</h2> -->
+        <div class="footer-col-wrapper">
+            <div class="footer-col  footer-col-1">
+                <p class="text">
+                    Brought to you by:
+                    <br>
+                    <br>
+                    {{ site.address | newline_to_br  }}
 
 {% if site.schoolurl %}
-  <a href="{{site.schoolurl}}">
-    <i class="fas fa-globe" style="color:gray"></i> {{site.schoolurl}}
-  </a><br>
-{% endif %}
-<small>Thanks to: <br>
-  <img src="https://www.elsa-ai.eu/images/logo/elsa_logo_RGB_twocolor.jpg" width="20px"/>
-  <a href="https://www.elsa-ai.eu" target="_blank">Elsa Project
-  </a></small>
-
-</div>
-
-      <div class="footer-col  footer-col-2">
-        <p>Follow us!</p>
-       <ul class="social-media-list">
-     
-
-          {% if site.twitter_username %}
-  <li>
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fab fa-twitter" style="color:gray"></i> {{ site.twitter_username }}
-    </a>
-  </li>
-{% endif %}
+                    <br>
+                    <a href="{{site.schoolurl}}">
+                        <i class="fas fa-globe" style="color:gray"></i>
+                        {{site.schoolurl}}
+                    </a>
+                    <br>
+                    {% endif %}
+                    <br>
+                    <img src="https://www.elsa-ai.eu/images/logo/elsa_logo_RGB_twocolor.jpg" width="50px" style="margin: 10px;">
+                </small>
+            </div>
+            <div class="footer-col  footer-col-2">
+                <p>Follow us!</p>
+                <ul class="social-media-list">
+                    {% if site.twitter_username %}
+                    <li>
+                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                            <i class="fab fa-twitter" style="color:gray"></i>
+                            {{ site.twitter_username }}
+                        </a>
+                    </li>
+                    {% endif %}
 
 {% if site.linkedin_username %}
-<li>
-  <a href="https://www.linkedin.com/company/{{ site.linkedin_id }}">
-    <i class="fab fa-linkedin" style="color:gray"></i> {{ site.linkedin_username }}
-  </a>
-</li>
-{% endif %}
+                    <li>
+                        <a href="https://www.linkedin.com/company/{{ site.linkedin_id }}">
+                            <i class="fab fa-linkedin" style="color:gray"></i>
+                            {{ site.linkedin_username }}
+                        </a>
+                    </li>
+                    {% endif %}
 
 
           {% if site.google_scholar_id %}
-  <li>
-    <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
-      <i class="ai ai-google-scholar" style="color:gray"></i> {{ site.google_scholar_id }}
-    </a>
-  </li>
-{% endif %}
+                    <li>
+                        <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+                            <i class="ai ai-google-scholar" style="color:gray"></i>
+                            {{ site.google_scholar_id }}
+                        </a>
+                    </li>
+                    {% endif %}
 
           {% if site.orcid_id %}
-  <li>
-    <a href="https://orcid.org/{{ site.orcid_id }}">
-      <i class="ai ai-orcid" style="color:gray"></i> {{ site.orcid_id }}
-    </a>
-  </li>
-{% endif %}
+                    <li>
+                        <a href="https://orcid.org/{{ site.orcid_id }}">
+                            <i class="ai ai-orcid" style="color:gray"></i>
+                            {{ site.orcid_id }}
+                        </a>
+                    </li>
+                    {% endif %}
 
 
 
 {% if site.schoolurl %}
-<li>
-  <a href="{{site.youtube_url}}">
-    <i class="fab fa-youtube" style="color:gray"></i> {{site.youtube_username}}
-  </a>
-</li>
-{% endif %}
-
-
-
-
-       
-        </ul>
-      </div>
+                    <li>
+                        <a href="{{site.youtube_url}}">
+                            <i class="fab fa-youtube" style="color:gray"></i>
+                            {{site.youtube_username}}
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
     </div>
-
-  </div>
-
 </footer>
