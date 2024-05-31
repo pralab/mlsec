@@ -1,0 +1,11 @@
+---
+type: event
+date: 2018-09-16T8:00:00+1:00
+speaker: Yufei Han
+affiliation: INRIA
+title: "Cross-Context Backdoor Attacks against Graph Prompt Learning"
+bio: "Yufei Han is currently a senior researcher at INRIA, PIRAT project team. He is focusing on two topics: 1) adversarial attack and defense of AI techniques and 2) AI-boosted cyber security applications, such as AI-based malware classification. Yufei has over 30 peer-reviewed research publications on top venues and journals of AI and security research, such as ICML, ICLR, AAAI, KDD, ACM CCS, IEEE SP Oakland, Usenix Security and IEEE TDSC. Besides, Yufei also has 15 US patents granted. "
+abstract: "Graph Prompt Learning (GPL) bridges significant disparities between pretraining and downstream applications to alleviate the knowledge transfer bottleneck in real-world graph learning. While GPL offers superior effectiveness in graph knowledge transfer and computational efficiency, the security risks posed by backdoor poisoning effects embedded in pretrained models remain largely unexplored. Our study provides a comprehensive analysis of GPL's vulnerability to backdoor attacks. We introduce CrossBA, the first cross-context backdoor attack against GPL, which manipulates only the pretraining phase without requiring knowledge of downstream applications. Our investigation reveals both theoretically and empirically that tuning trigger graphs, combined with prompt transformations, can seamlessly transfer the backdoor threat from pretrained encoders to downstream applications. Through extensive experiments involving 3 representative GPL methods across 5 distinct cross-context scenarios and 5 benchmark datasets of node and graph classification tasks, we demonstrate that CrossBA consistently achieves high attack success rates while preserving the functionality of downstream applications over clean input. We also explore potential countermeasures against CrossBA and conclude that current defenses are insufficient to mitigate CrossBA. Our study highlights the persistent backdoor threats to GPL systems, raising trustworthiness concerns in the practices of GPL techniques."
+youtube: rPKV0cyXQ18
+zoom: https://us02web.zoom.us/meeting/register/tZcsf-CvrDIrH9F945i6vLyaW_VXPdyJ87EH
+---
