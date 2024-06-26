@@ -16,12 +16,14 @@
         .scholar-profile-badge-img-wrapper {
             position: relative;
             height: ${BASE_SIZE}px;
+            width: ${BASE_SIZE}px;
         }
 
         .scholar-profile-badge-img {
             border-radius: 50%;
             width: ${BASE_SIZE}px;
             height: ${BASE_SIZE}px;
+            object-fit: cover;
         }
 
         .scholar-profile-badge-logo {
@@ -47,7 +49,8 @@
             max-width: 0;
             transition: all 0.3s ease;
         }
-        
+
+
         .row-badge {
             display: flex;
             flex-wrap: wrap;
