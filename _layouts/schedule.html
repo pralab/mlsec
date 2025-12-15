@@ -1,48 +1,43 @@
 ---
 layout: default
 ---
-
 <header class="post-header">
     <h1 class="post-title">Next events</h1>
 </header>
-
 {{ content }}
-
 <div class="home" style="font-size: 0.8em;">
     {% if site.events.size != 0 %}
 
     {% for event in site.events %}
 
-    {{ event.date |  date: "%A, %B %d, %y %Y %H:%M %Z"  }}<br> <a href="{{event.zoom}}" target="_blank">Click here to register!</a>
+    {{ event.date |  date: "%A, %B %d, %y %Y %H:%M %Z"  }}
+    <br>
+    <a href="{{event.register}}" target="_blank">Click here to register!</a>
     <div class="content">
-        <span style="font-weight: bold;">{{ event.title }}</span><br>
+        <span style="font-weight: bold;">{{ event.title }}</span>
+        <br>
         <details>
-          <summary>
-            <strong>Speaker:</strong> {{ event.speaker }} ({{event.affiliation}})
-          </summary>
-          <small>
-            {{event.bio}}
-          </small>
-      </details>
-      
-        <br/>
-        <small>{{event.abstract}}</small>
+            <summary>
+                <strong>Speaker:</strong>
+                {{ event.speaker }} ({{event.affiliation}})
+            </summary>
+            <small>
+                {{event.bio}}
+            </small>
+        </details>
+        <br>
+        {{event.abstract}}
 
         {% if event.content != '' %}
-        <br/>
+        <br>
         <div class="markdown-content" style="margin-top: 3px;">
-        {{ event.content }}
+            {{ event.content }}
         </div>
         {% endif %}
     </div>
-
     {% endfor %}
-
-    </ul>
-    {% else %}
-
-    <h3>Stay tuned for future events!</h3>
-
-    {% endif %}
-
+</ul>
+{% else %}
+<h3>Stay tuned for future events!</h3>
+{% endif %}
 </div>
