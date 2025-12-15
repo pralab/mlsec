@@ -8,6 +8,8 @@ layout: home
             <h2 class="section-heading text-uppercase">Organizers</h2>
         </div>
         <div class="row-badge">
+            <div class="scholar-profile-badge" user-name="Giorgio Piras" user-id="eGV623MAAAAJ"></div>
+            <div class="scholar-profile-badge" user-name="Raffaele Mura" user-id="CukCfWgAAAAJ"></div>
             <div class="scholar-profile-badge" user-name="Maura Pintor" user-id="Tu45bY4AAAAJ"></div>
             <div class="scholar-profile-badge" user-name="Luca Demetrio" user-id="1VFfrQEAAAAJ"></div>
             <div class="scholar-profile-badge" user-name="Angelo Sotgiu" user-id="7nNieGwAAAAJ"></div>
