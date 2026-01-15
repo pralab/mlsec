@@ -3,6 +3,10 @@ layout: default
 ---
 
 {{ content }}
+<p id="event-count">
+    Total events:
+    <strong>{{ site.past | size }}</strong>
+</p>
 <ul id="archive">
     {% for event in site.past %}
     <li class="archiveposturl" style="background: transparent">
