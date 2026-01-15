@@ -4,11 +4,13 @@ layout: default
 
 {{ content }}
 <p id="event-count">
-    Total events:
-    <strong>{{ site.past | size }}</strong>
+    <strong>
+        Total events:
+    {{ site.past | size }}
+    </strong>
 </p>
 <ul id="archive">
-    {% for event in site.past %}
+    {% for event in site.past | reverse %}
     <li class="archiveposturl" style="background: transparent">
         <div class="lecture-container">
             <div class="thumbnail">
