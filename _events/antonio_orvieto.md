@@ -1,6 +1,6 @@
 ---
 type: event
-date: 2026-02-04T15:00:00+1:00
+date: 2026-02-04T17:00:00+1:00
 speaker: Antonio Orvieto
 affiliation: ELLIS Institute Tübingen - MPI
 title: "Improving Capabilities of Efficient Foundation Models beyond Language"
