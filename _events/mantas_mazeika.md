@@ -1,6 +1,6 @@
 ---
 type: event
-date: 2026-03-011T17:00:00+1:00
+date: 2026-03-11T17:00:00+1:00
 speaker: Mantas Mazeika
 affiliation: Center for AI Safety
 title: "Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs"
