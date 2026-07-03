@@ -1,10 +1,9 @@
 ---
 type: event
-date: 2026-04-29T17:00:00+1:00
-speaker: Alina Oprea
-affiliation: "Northeastern University"
-title: "The Way Forward: Towards Trustworthy AI Agents"
-bio: "Alina Oprea is a Professor at Northeastern University in the Khoury College of Computer Sciences, where she co-directs the Network and Distributed Systems Security (NDS2) Lab. She joined Northeastern University in Fall 2016 after spending 9 years as a Research Scientist at RSA Laboratories. She is the recipient of the Technology Review TR35 award for research in cloud security in 2011, the Google Security and Privacy Award in 2019, the Ruth and Joel Spira Award for Excellence in Teaching in 2020, and the CMU Cylab Distinguished Alumni Award in 2024. Her research interests are trustworthy AI, security of agentic AI systems, AI for cybersecurity, machine learning privacy, and cloud security. She is currently the General Chair for the IEEE Symposium on Security and Privacy 2026."
-register: https://events.teams.microsoft.com/event/00f1e355-5368-4558-bf29-b04340b240f7@6bfa74cc-fe34-4d57-97d3-97fd6e0edee1
-
+date: 2026-06-24T17:00:00+1:00
+speaker: Niloofar Mireshghallah
+affiliation: "Carnegie Mellon"
+title: "What Should an Agent Remember, Reveal, and Redact? The New Data Sinks and Leaks of Agentic AI"
+bio: "Niloofar Mireshghallah is an assistant professor at Carnegie Mellon University, jointly appointed in the Language Technologies Institute and the Department of Engineering and Public Policy, and a core member of CyLab. Her research lies at the intersection of privacy, natural language processing, and the societal implications of machine learning, with a focus on contextual integrity and information-flow norms in LLMs and agentic systems. Previously, she was a research scientist at Meta's FAIR lab and a postdoctoral scholar at the University of Washington's Paul G. Allen School. She received her Ph.D. from UC San Diego in 2023. Her work has been covered by The Washington Post and WIRED, and she is a recipient of the NCWIT Collegiate Award and the Rising Star in Adversarial ML Award."
+register: https://events.teams.microsoft.com/event/a5c019c5-dc98-4f04-b1da-a63c9d607dcf@6bfa74cc-fe34-4d57-97d3-97fd6e0edee1
 ---
